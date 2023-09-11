@@ -1,5 +1,5 @@
 week02
--linux command : ls, ls-al, pwd, cd .git, cd.., echo ~~ >> README.md, cat README.md
+-linux command : ls, ls-al, pwd, cd .git, cd.., echo "~~" >> README.md, cat README.md
 -git command
  git init
  git staus
@@ -14,3 +14,4 @@ week02
  git remote add origin https://github.com/~/test.git
  git remote -v
  git push -u origin main
+ git clone https~ .
